@@ -1,6 +1,6 @@
 import pandas as pd
 
-VERSIONS = ["v1", "v2", "v3"]
+VERSIONS = ["v1_holdout", "v3_holdout"]
 by_specialty = {}
 
 for version in VERSIONS:

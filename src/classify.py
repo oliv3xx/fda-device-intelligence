@@ -4,13 +4,14 @@ import pandas as pd
 from dotenv import load_dotenv
 from google import genai
 
+
 load_dotenv()
 client = genai.Client()
 
 MODEL = "gemini-3.5-flash-lite"
 BATCH_SIZE = 20
-
-VERSION = "v3"
+VERSION = "v3_holdout"
+SAMPLE_FILE = "data/processed/eval_sample_holdout.csv"
 
 GUIDANCE = """Notes on FDA categories (they follow FDA regulation, not just the body part):
 - Nerve stimulators (TENS), brain/spine navigation, pain or cognitive assessment tools -> Neurology
@@ -22,7 +23,7 @@ GUIDANCE = """Notes on FDA categories (they follow FDA regulation, not just the 
 - Bronchoscopes, airway endoscopes, laryngeal tubes, ear implants and hearing devices -> Ear, Nose, Throat (even though they relate to breathing)
 """
 
-sample = pd.read_csv("data/processed/510k_2025_sample.csv")
+sample = pd.read_csv(SAMPLE_FILE)
 
 # sample is grouped by specialty; shuffle so each batch is mixed
 sample = sample.sample(frac=1, random_state=42).reset_index(drop=True)
@@ -31,7 +32,7 @@ categories = sorted(sample["advisory_committee_description"].unique())
 def build_prompt(device_names):
     category_list = "\n".join(f"- {c}" for c in categories)
     device_list = "\n".join(f"{i}. {name}" for i, name in enumerate(device_names))
-    guidance = GUIDANCE if VERSION in ("v2", "v3") else ""
+    guidance = GUIDANCE if VERSION.startswith(("v2", "v3")) else ""
     return f"""Classify each FDA medical device into exactly one medical specialty from this list:
 {category_list}
 

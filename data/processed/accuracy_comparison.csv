@@ -1,20 +1,20 @@
-advisory_committee_description,v1,v2,v3,change
-Physical Medicine,0.8,0.8,0.7,-0.10000000000000009
-Pathology,0.6,0.8,0.7,-0.10000000000000009
-Anesthesiology,0.4,0.9,0.8,-0.09999999999999998
-Radiology,0.6,0.5,0.4,-0.09999999999999998
-"Gastroenterology, Urology",0.7,0.7,0.7,0.0
-Cardiovascular,0.7,0.9,0.9,0.0
-Clinical Toxicology,0.8,0.8,0.8,0.0
-Dental,0.8,0.8,0.8,0.0
-Ophthalmic,0.8,0.8,0.8,0.0
-Neurology,0.2,0.6,0.6,0.0
-Microbiology,0.8,0.8,0.8,0.0
-Hematology,0.6,1.0,1.0,0.0
-Obstetrics/Gynecology,0.9,0.8,0.8,0.0
-Immunology,0.3,0.4,0.5,0.09999999999999998
-General Hospital,0.6,0.6,0.7,0.09999999999999998
-"General, Plastic Surgery",0.6,0.6,0.7,0.09999999999999998
-Orthopedic,0.9,0.8,0.9,0.09999999999999998
-Clinical Chemistry,0.5,0.7,0.8,0.10000000000000009
-"Ear, Nose, Throat",0.7,0.4,0.7,0.29999999999999993
+advisory_committee_description,v1_holdout,v3_holdout,change
+Physical Medicine,0.8,0.7,-0.10000000000000009
+Radiology,0.4,0.3,-0.10000000000000003
+Clinical Toxicology,0.9,0.8,-0.09999999999999998
+General Hospital,1.0,0.9,-0.09999999999999998
+"Gastroenterology, Urology",0.7,0.6,-0.09999999999999998
+Microbiology,0.9,0.8,-0.09999999999999998
+Dental,0.9,0.9,0.0
+Clinical Chemistry,0.7,0.7,0.0
+Ophthalmic,1.0,1.0,0.0
+Obstetrics/Gynecology,0.9,0.9,0.0
+Orthopedic,1.0,1.0,0.0
+Cardiovascular,0.7,0.7,0.0
+Immunology,0.2,0.3,0.09999999999999998
+"Ear, Nose, Throat",0.6,0.7,0.09999999999999998
+"General, Plastic Surgery",0.5,0.6,0.09999999999999998
+Hematology,0.7,0.9,0.20000000000000007
+Pathology,0.7,0.9,0.20000000000000007
+Anesthesiology,0.3,0.6,0.3
+Neurology,0.2,0.5,0.3

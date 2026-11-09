@@ -6,7 +6,7 @@ df = pd.read_csv("data/processed/510k_2025.csv")
 df = df[df["advisory_committee_description"] != "Unknown"]
 
 # 10 per specialty so every category gets a fair test
-sample = df.groupby("advisory_committee_description").sample(n=10, random_state=42)
+sample = df.groupby("advisory_committee_description").sample(n=10, random_state=7)
 
-sample.to_csv("data/processed/510k_2025_sample.csv", index=False)
+sample.to_csv("data/processed/eval_sample_holdout.csv", index=False)
 print(len(sample))
