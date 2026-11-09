@@ -1,27 +1,22 @@
 import pandas as pd
 
-df = pd.read_csv("data/processed/predictions.csv")
+VERSIONS = ["v1", "v2", "v3"]
+by_specialty = {}
 
-# true when Gemini matched FDA's specialty
-df["correct"] = df["predicted"] == df["advisory_committee_description"]
+for version in VERSIONS:
+    df = pd.read_csv(f"data/processed/predictions_{version}.csv")
+    df["correct"] = df["predicted"] == df["advisory_committee_description"]
+    print(f"{version} accuracy: {df['correct'].mean():.1%} ({df['correct'].sum()} / {len(df)})")
+    by_specialty[version] = df.groupby("advisory_committee_description")["correct"].mean()
 
-# overall accuracy
-accuracy = df["correct"].mean()
-print(f"Overall accuracy: {accuracy:.1%} ({df['correct'].sum()}/{len(df)})")
+comparison = pd.DataFrame(by_specialty)
 
-# accuracy per specialty, worst first
-by_specialty = df.groupby("advisory_committee_description")["correct"].mean().sort_values()
-print("\nAccuracy by specialty:")
-print(by_specialty.apply(lambda x: f"{x:.0%}"))
+# Compare the newest version to the one before it
+latest, previous = VERSIONS[-1], VERSIONS[-2]
+comparison["change"] = comparison[latest] - comparison[previous]
+comparison = comparison.sort_values("change")
 
-# what Gemini guessed when it was wrong
-mistakes = df[~df["correct"]]
-common_errors = (
-    mistakes.groupby(["advisory_committee_description", "predicted"])
-    .size()
-    .sort_values(ascending=False)
-)
-print("\nMost common mistakes (actual -> predicted):")
-print(common_errors.head(10))
+print(f"\nAccuracy by specialty (change = {latest} vs {previous}):")
+print((comparison * 100).round(0))
 
-by_specialty.to_csv("data/processed/accuracy_by_specialty.csv")
+comparison.to_csv("data/processed/accuracy_comparison.csv")

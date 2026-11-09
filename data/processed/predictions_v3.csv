@@ -1,0 +1,191 @@
+k_number,applicant,device_name,product_code,decision_date,decision_description,advisory_committee_description,device_class,predicted
+K233770,"Pepper Interactive, Inc.",Pepper EMS Training System,NGX,2025-01-16,Substantially Equivalent,Physical Medicine,2.0,General Hospital
+K243556,Iray Imaging Technology (Haining) Limited,Lux HD 35 Detector (Lux HD 35); Lux HD 43 Detector (Lux HD 43),MQB,2025-03-18,Substantially Equivalent,Radiology,2.0,Radiology
+K241313,"Osang, LLC",OHC COVID-19 Antigen Self Test,QYT,2025-05-30,Substantially Equivalent,Microbiology,2.0,Microbiology
+K250351,Olympus Medical Systems Corporation,"Single Use Electrosurgical Knife (KD-612L, KD-612U); Single Use Electrosurgical Knife (KD-620UR); Single Use Electrosurgical Knife (KD-650L, KD-650U)",KNS,2025-10-10,Substantially Equivalent,"Gastroenterology, Urology",2.0,"Gastroenterology, Urology"
+K250408,Zeus Scientific,Alegria Flash ENA Screen,LLL,2025-09-19,Substantially Equivalent,Immunology,2.0,Immunology
+K243756,"Arbor Endovascular, LLC",0.014 Willow Guidewire,MOF,2025-07-17,Substantially Equivalent,Cardiovascular,2.0,Cardiovascular
+K252616,"Shenzhen Homed Medical Device Co., Ltd.",Portable oxygen concentrator (JLO-190P),CAW,2025-12-22,Substantially Equivalent,Anesthesiology,2.0,Anesthesiology
+K250258,"Heartbeam, Inc.",HeartBeam AIMIGo with 12-L ECG Synthesis Software System,DXH,2025-12-08,Substantially Equivalent,Cardiovascular,2.0,Cardiovascular
+DEN250016,"Essilor Of America, Inc.",Essilor® Stellest®,QUR,2025-09-25,Unknown,Ophthalmic,2.0,Ophthalmic
+K243289,"Nu Eyne Co., Ltd.",ADDNOX (BPSPM1),QGL,2025-01-16,Substantially Equivalent,Neurology,2.0,Anesthesiology
+K252072,Centers for Disease Control and Prevention,Francisella tularensis Real-time PCR assay,SGA,2025-09-30,Substantially Equivalent,Immunology,2.0,Microbiology
+K243374,Instrumentation Laboratory (IL) Co.,HemosIL CL HIT-IgG(PF4-H),LCO,2025-01-28,Substantially Equivalent,Hematology,2.0,Hematology
+K242967,Fitbit,Loss of Pulse Detection,SDY,2025-02-25,Substantially Equivalent,Cardiovascular,2.0,Cardiovascular
+K241868,"Tempus AI, Inc.",xR IVD,PZM,2025-09-19,Substantially Equivalent,Pathology,2.0,Pathology
+K253123,"Classys, Inc.",CuRAS hybrid,GEX,2025-11-20,Substantially Equivalent,"General, Plastic Surgery",2.0,"General, Plastic Surgery"
+K243856,"Shenzhen Astec Technology Co., Ltd.","TENS AND EMS (TENS and Muscle Stimulator) ( Model AS8012C,AS8016,AS8019,AS9020E,AS9026)",NUH,2025-05-29,Substantially Equivalent,Neurology,2.0,Neurology
+K250666,Zeus Scientific,Alegria Flash CTD Screen,LLL,2025-10-22,Substantially Equivalent,Immunology,2.0,Immunology
+DEN240076,Neurovalens Limited,Modius Lean,SFW,2025-10-17,Unknown,"Gastroenterology, Urology",1.0,Neurology
+K241731,"Resnent, LLC",Outlook Surgical Versa One System (8900139),EOB,2025-08-11,Substantially Equivalent,"Ear, Nose, Throat",2.0,"General, Plastic Surgery"
+K242944,Leone S.P.A.,Leone Orthodontic Implant TAD (Temporary Anchorage Device),OAT,2025-06-19,Substantially Equivalent,Dental,2.0,Dental
+K240287,"Hangzhou Laihe Biotech Co., Ltd.",LYHER® Oral fluid Multi-Drug Test Kit (Cube),DJC,2025-03-18,Substantially Equivalent,Clinical Toxicology,2.0,Clinical Toxicology
+K251053,"Hangzhou AllTest Biotech Co., Ltd.",Shinetell PlusTM Digital Early Pregnancy Test,LCX,2025-07-15,Substantially Equivalent,Clinical Chemistry,2.0,Clinical Chemistry
+K251556,Geistlich Pharma AG,Device 300423 Granules,MQV,2025-07-17,Substantially Equivalent,Orthopedic,2.0,Dental
+K243144,"Scopio Labs , Ltd.",X100/X100HT with Full Field Peripheral Blood Smear (PBS) Application,JOY,2025-06-27,Substantially Equivalent,Hematology,2.0,Hematology
+K250493,Anx Robotica Corporation,MotiliCap GI Monitoring System,NYV,2025-05-21,Substantially Equivalent,"Gastroenterology, Urology",2.0,"Gastroenterology, Urology"
+K251480,"Neurotronics, LLC",PV01 PVDF Effort Sensor,SFK,2025-08-29,Substantially Equivalent,Neurology,2.0,Anesthesiology
+K253740,Hong Qiangxing (Shenzhen) Electronics Limited,"TENS&EMS (HZ9151B, HZ9151C, HZ9151D)",NUH,2025-12-23,Substantially Equivalent,Neurology,2.0,Neurology
+K242129,"Vitalconnect, Inc.",VitalRhythm,DQK,2025-04-17,Substantially Equivalent,Cardiovascular,2.0,Cardiovascular
+K252223,"SHENZHEN SUPERLINE TECHNOLOGY CO., LTD.",Alpha Endo Handpiece (Alpha Endo),EKX,2025-10-16,Substantially Equivalent,Dental,1.0,Dental
+K243976,"Epic Medical Pte. , Ltd.",ZeroClear Bag Access (423100),ONB,2025-01-22,Substantially Equivalent,General Hospital,2.0,General Hospital
+K243449,"Infinitt Healthcare Co., Ltd.",INFINITT DPS,QKQ,2025-12-09,Substantially Equivalent,Pathology,2.0,Pathology
+K241842,Olympus Medical Systems Corporation,Luer-Split MAJ-2092,ODC,2025-03-19,Substantially Equivalent,"Gastroenterology, Urology",2.0,"Gastroenterology, Urology"
+K244035,"Shenzhen Jermei Medical Device Technology Co., Ltd.",Portable mesh nebulizer (JM821),CAF,2025-09-19,Substantially Equivalent,Anesthesiology,2.0,Anesthesiology
+K243972,Global Protection Corp.,Plain Water-based Lubricant,NUC,2025-08-08,Substantially Equivalent,Obstetrics/Gynecology,2.0,Obstetrics/Gynecology
+K250968,Pathpresenter Corporation,PathPresenter Clinical Viewer,QKQ,2025-06-20,Substantially Equivalent,Pathology,2.0,Pathology
+K242545,Eizo Corporation,RadiForce MX317W-PA,PZZ,2025-05-23,Substantially Equivalent,Pathology,2.0,Radiology
+K251035,Serim Research,DISINTEK PA Test Strips,JOJ,2025-06-03,Substantially Equivalent,General Hospital,2.0,Microbiology
+K243346,"Roche Molecular Systems, Inc.",cobas liat SARS-CoV-2 v2 nucleic acid test,QWR,2025-04-11,Substantially Equivalent,Microbiology,2.0,Microbiology
+K251752,"Shanghai AnQing Medical Instrument Co., Ltd.","Flexible Bronchoscope (BS27U-12EU, BS27U-12US, BS38U-20EU, BS38U-20US)",EOQ,2025-08-27,Substantially Equivalent,"Ear, Nose, Throat",2.0,"Ear, Nose, Throat"
+K252259,"Assure Tech., LLC",AssureTech Quick Cup Tests; AssureTech Multi-drug Urine Test Cup,NFT,2025-08-15,Substantially Equivalent,Clinical Toxicology,2.0,Clinical Toxicology
+K242294,Diasys Diagnostic Systems GmbH,DiaSys Procalcitonin FS; DiaSys TruCal Procalcitonin Calibrator Set; DiaSys TruLab Procalcitonin Bi-Level Controls,PTF,2025-05-09,Substantially Equivalent,Microbiology,2.0,Clinical Chemistry
+K250701,Olympus Medical Systems Corp.,Evis Exera III Duodenovideoscope Olympus TJF-Q190V (TJF-Q190V),FDT,2025-06-05,Substantially Equivalent,"Gastroenterology, Urology",2.0,"Gastroenterology, Urology"
+K241273,"Paige.Ai, Inc.",FullFocus,QKQ,2025-01-09,Substantially Equivalent,Pathology,2.0,Neurology
+K243501,3M Company,3M Attest Super Rapid Steam Extended Cycle Clear Challenge  Pack 1492PCDE; 3M Attest Auto-reader  490; 3M Attest Auto-reader  490H; 3M Attest Mini Auto-reader  490M,FRC,2025-01-28,Substantially Equivalent,General Hospital,2.0,General Hospital
+K250786,"Intuitive Surgical, Inc.","SP Endoscope, 0° (430600)",NAY,2025-05-13,Substantially Equivalent,"Gastroenterology, Urology",2.0,"General, Plastic Surgery"
+K242190,"Beckman Coulter, Inc.",Access Cortisol; DxC 500i Clinical Analyzer,CGR,2025-03-05,Substantially Equivalent,Clinical Chemistry,2.0,Clinical Chemistry
+K241737,"Sway Medical, Inc.",Sway System Sports Plus,POM,2025-02-15,Substantially Equivalent,Neurology,2.0,Neurology
+K251184,Encore Medical L.P.,AltiVate Reverse Shoulder System; RSP Shoulder System; SMR Shoulder System; PRIMA Humeral System; PRIMA Glenoid System,PHX,2025-05-16,Substantially Equivalent,Orthopedic,2.0,Orthopedic
+K242244,"Lumea, Inc.",Viewer+,QKQ,2025-03-14,Substantially Equivalent,Pathology,2.0,Pathology
+K252520,Immunalysis Corporation,SEFRIA Hydrocodone Oral Fluid,DJG,2025-09-11,Substantially Equivalent,Clinical Toxicology,2.0,Clinical Toxicology
+K253202,Stryker GmbH,Hoffmann LRF System,KTT,2025-12-19,Substantially Equivalent,Orthopedic,2.0,Orthopedic
+K251102,"Cemho Medical Technology (Guangdong) Co., Ltd.","Automatic Blood Pressure Monitor (CH-S691L, CH-B607, CH-B606, CH-S692L, CH-S602, CH-W701L, CH-S693L, CH-B601L, CP-B01, CH-S603)",DXN,2025-07-16,Substantially Equivalent,Cardiovascular,2.0,General Hospital
+K242715,"Pearl Digital, Inc.",Pearl Clear Aligner,NXC,2025-01-16,Substantially Equivalent,Dental,2.0,Dental
+K242140,"Jiale Health Technology Shenzhen Co., Ltd.",Air Compression Leg Massager (K-705),IRP,2025-03-17,Substantially Equivalent,Physical Medicine,2.0,Physical Medicine
+K242416,"Hunan Vathin Medical Instrument Co., Ltd.","Single-use Flexible Bronchoscope: BC-E1C10, BC-E1C11, BC-E1C12, BC-E1E10, BC-E1E11, BC-E1E12, BC-E1H10, BC-E1H11, BC-E1H12; Digital Video Monitor: DVM-D1, DVM-D2; Single-use sampler: S-20mL, S-30mL, S-50mL",EOQ,2025-01-16,Substantially Equivalent,"Ear, Nose, Throat",2.0,"Ear, Nose, Throat"
+K251404,"Hemosonics, LLC",Quantra QStat Cartridge,QFR,2025-08-25,Substantially Equivalent,Hematology,2.0,Hematology
+K251564,"Iline Microsystems, S.L.",microINR System,GJS,2025-07-21,Substantially Equivalent,Hematology,2.0,Hematology
+K243649,"Becton, Dickinson and Company",BD Vacutainer® Multiple Sample Luer Adapter,JKA,2025-03-21,Substantially Equivalent,Clinical Chemistry,2.0,General Hospital
+K243462,"Diazyme Laboratories, Inc.",Diazyme Colorimetric Lithium Assay,NDW,2025-08-01,Substantially Equivalent,Clinical Toxicology,2.0,Clinical Chemistry
+K250513,"Cytovale, Inc.",IntelliSep Test (CV-ICG-048),QUT,2025-03-21,Substantially Equivalent,Microbiology,2.0,Hematology
+K250988,KLS-Martin L.P.,KLS Martin Pure Pectus System,HRS,2025-12-11,Substantially Equivalent,Orthopedic,2.0,Orthopedic
+K241348,Motilitycount Aps,SwimCount® Harvester (1 mL); SwimCount® Harvester (3 mL),MQK,2025-01-31,Substantially Equivalent,Obstetrics/Gynecology,2.0,Hematology
+K251514,"Overjet, Inc.",Overjet CBCT Assist,QIH,2025-12-05,Substantially Equivalent,Radiology,2.0,Dental
+K243967,Global Protection Corp.,ONE Nitrile Condom,MOL,2025-04-08,Substantially Equivalent,Obstetrics/Gynecology,2.0,Obstetrics/Gynecology
+K244027,Huxley Medical,SANSA HSAT,MNR,2025-01-28,Substantially Equivalent,Anesthesiology,2.0,"Ear, Nose, Throat"
+K254163,"Nakanishi, Inc.",VarioSurg 4,DZI,2025-12-23,Substantially Equivalent,Dental,2.0,Dental
+K243543,"Iline Microsystems, S.L.",microINR System,GJS,2025-02-27,Substantially Equivalent,Hematology,2.0,Hematology
+K243504,Centervue S.P.A.,MAIA (AHMACME001),MYC,2025-03-17,Substantially Equivalent,Ophthalmic,2.0,Ophthalmic
+K242890,Spineart SA,SPINEART Navigation Instrument System,OLO,2025-03-07,Substantially Equivalent,Neurology,2.0,Neurology
+K252118,"Hangzhou Clongene Biotech Co., Ltd.",CLUNGENE Multi-Drug Test Easy Cup; CLUNGENE Multi-Drug Home Test Easy Cup,NFT,2025-08-27,Substantially Equivalent,Clinical Toxicology,2.0,Clinical Toxicology
+K251637,"Donnevie Medical Technology (Shanghai) Co. , Ltd.","Dewin Reproductive Media (Dewin Gamete Buffer [with HSA and without HSA]; Dewin Follicle Flushing Solution, Dewin One Step medium [with HSA and without HSA])",MQL,2025-08-27,Substantially Equivalent,Obstetrics/Gynecology,2.0,Obstetrics/Gynecology
+K244014,"Abbott Point of Care, Inc.",i-STAT CG4+ cartridge with the i-STAT 1 System,CHL,2025-05-02,Substantially Equivalent,Clinical Chemistry,2.0,Clinical Chemistry
+K243804,"Beckman Coulter, Inc.",MicroScan Dried Gram-Negative MIC/Combo Panels with Cefepime (CPE) (0.12-64 µg/mL) (MicroScan),LTT,2025-08-20,Substantially Equivalent,Microbiology,2.0,Microbiology
+K243487,"Cryosurgery, Inc.",CryoFreeze Wart and Skin Tag Remover,GEH,2025-03-13,Substantially Equivalent,"General, Plastic Surgery",2.0,"General, Plastic Surgery"
+K251528,"Siemens Medical Solutions USA, Inc.",syngo.via MI Workflows; Scenium; syngo MBF,QIH,2025-07-03,Substantially Equivalent,Radiology,2.0,Radiology
+K252238,Coroventis Research AB,CoroFlow Cardiovascular System,DQK,2025-10-24,Substantially Equivalent,Cardiovascular,2.0,Cardiovascular
+K250050,Midiagnostics NV,miDiagnostics HSV-1&2 CSF Test,PGH,2025-09-30,Substantially Equivalent,Microbiology,2.0,Microbiology
+K242928,"Kyocera Medical Technologies, Inc.",Tesera-k SC System,OVE,2025-04-10,Substantially Equivalent,Orthopedic,2.0,Orthopedic
+K242374,"Airgas Therapeutics, LLC",ULSPIRA TS Nitric Oxide Therapy System,MRN,2025-01-17,Substantially Equivalent,Anesthesiology,2.0,Anesthesiology
+K251091,Truvian Health,Lipids,CHH,2025-12-30,Substantially Equivalent,Clinical Chemistry,1.0,Clinical Chemistry
+DEN250032,"DiaSorin, Inc.",LIAISON® XL MUREX Anti-HDV (318260); LIAISON® XL MUREX Control Anti-HDV (318261),SGW,2025-12-23,Unknown,Immunology,2.0,Microbiology
+K243023,"Wellell, Inc.",WiZARD 520 Full Face Mask,BZD,2025-05-23,Substantially Equivalent,Anesthesiology,2.0,Anesthesiology
+K250067,"Guangzhou Decheng Biotechnology Co., Ltd.",Dochek® Multi-Drug Urine Test Cup; Dochek® Multi-Drug Urine Test Cup Pro,NGL,2025-02-20,Substantially Equivalent,Clinical Toxicology,2.0,Clinical Toxicology
+K243776,Zeus Scientific,Anti-Neutrophil Cytoplasmic Antibodies (Ethanol-Fixed); Anti-Neutrophil Cytoplasmic Antibodies (Formalin-Fixed),MOB,2025-05-07,Substantially Equivalent,Immunology,2.0,Immunology
+K242850,"Shenzhen TPH Technology Co., Ltd.",Wearable breast pump (model W8),HGX,2025-02-21,Substantially Equivalent,Obstetrics/Gynecology,2.0,Obstetrics/Gynecology
+K243114,"Medical Electronic Systems , Ltd.",SQA-iOw Sperm Quality Analyzer,POV,2025-05-02,Substantially Equivalent,Hematology,2.0,Hematology
+K243373,Vitrolife Sweden AB,Embryo Transfer Catheter (ETC) Assortment: EmbryoCath Embryo Transfer Catheter - Pre-curved 230 mm (REF 17500); EmbryoCath Embryo Transfer Catheter - Straight Malleable 180 mm (REF 17501); EmbryoCath Embryo Transfer Catheter - Straight Malleable 230 mm (REF 17502); EmbryoCath Stylet - 180 mm (REF 17510); EmbryoCath Stylet - 230 mm (REF 17511),MQF,2025-07-23,Substantially Equivalent,Obstetrics/Gynecology,2.0,Obstetrics/Gynecology
+K251044,Piraeus Medical,93 NeuFlex Catheter,QJP,2025-05-23,Substantially Equivalent,Cardiovascular,2.0,Cardiovascular
+K250213,Stryker Instruments,OptaBlate BVN Intraosseous Nerve Ablation System (10mm Probe Single Kit); OptaBlate BVN Intraosseous Nerve Ablation System (10mm Probe Dual Kit),GXI,2025-05-15,Substantially Equivalent,Neurology,2.0,Orthopedic
+K251649,"ShenB Co., Ltd.",Sunny Plus (Sunny),NFO,2025-09-18,Substantially Equivalent,Neurology,2.0,Obstetrics/Gynecology
+K251512,"Bistos Co., Ltd.",Hi bebe super (BT-150B),HGX,2025-09-25,Substantially Equivalent,Obstetrics/Gynecology,2.0,Obstetrics/Gynecology
+K250671,"Caire, Inc.",FreeStyle Comfort (AS200 / FreeStyle Comfort),CAW,2025-07-11,Substantially Equivalent,Anesthesiology,2.0,Clinical Chemistry
+K250759,"Changsha Anxiang Medical Technology Co., Ltd.",3 in 1 TENS UNIT,NGX,2025-06-13,Substantially Equivalent,Physical Medicine,2.0,Neurology
+K250364,"St. shine Optical Co., Ltd.",Saview SH Optic 38 UV (Senofilcon A) Visibility Tinted Soft (Hydrophilic) Contact Lens; Saview SH Optic 38 UV toric (Senofilcon A) Visibility Tinted Soft (Hydrophilic) Contact Lens; Saview SH Optic 38 UV multifocal (Senofilcon A) Visibility Tinted Soft (Hydrophilic) Contact Lens,LPL,2025-10-07,Substantially Equivalent,Ophthalmic,2.0,Ophthalmic
+K251722,"Epic Medical Pte. , Ltd.","ProSeal Transfer Injector (421120, 421130, 421140)",ONB,2025-12-05,Substantially Equivalent,General Hospital,2.0,"General, Plastic Surgery"
+K243810,"Brainlab , Ltd.",TraumaCad Neo (1.1),QIH,2025-06-04,Substantially Equivalent,Radiology,2.0,Orthopedic
+K243920,"Medica USA, Inc.",Purema H Hemoconcentrator - Pediatric,KDI,2025-09-19,Substantially Equivalent,"Gastroenterology, Urology",2.0,Cardiovascular
+K250763,C.E.I.B.Med,Reon,EBF,2025-05-12,Substantially Equivalent,Dental,2.0,Neurology
+K251868,Hologic,Panther Fusion GI Bacterial Assay,PCH,2025-09-25,Substantially Equivalent,Microbiology,2.0,Microbiology
+K251800,"Healgen Scientific,, LLC",Healgen® URS Test Strips,JMT,2025-12-23,Substantially Equivalent,Clinical Chemistry,1.0,Clinical Chemistry
+K251569,"Osstem Implant Co., Ltd.",Bone Screw,DZL,2025-08-13,Substantially Equivalent,Dental,2.0,Orthopedic
+K240615,"Beaver-Visitec International, Inc.",Leos Laser and Endoscopy System,HQF,2025-04-03,Substantially Equivalent,Ophthalmic,2.0,"General, Plastic Surgery"
+K252633,"Cylite Pty. , Ltd.",UNITY DX (UDX),OBO,2025-12-23,Substantially Equivalent,Ophthalmic,2.0,Clinical Chemistry
+K252818,"Dexcom, Inc.",Dexcom Smart Basal,QRX,2025-11-18,Substantially Equivalent,Clinical Chemistry,2.0,Clinical Chemistry
+K250792,"Tandem Diabetes Care, Inc.",t:slim X2 insulin pump with interoperable technology,QFG,2025-09-24,Substantially Equivalent,Clinical Chemistry,2.0,Clinical Chemistry
+K250501,This AG,System Sophi,HQC,2025-11-14,Substantially Equivalent,Ophthalmic,2.0,Ophthalmic
+K251031,"Shanghai Apolo Medical Technology Co., Ltd.","Fiber Laser Treatment Systems (HS-232,HS-233)",ONG,2025-07-02,Substantially Equivalent,"General, Plastic Surgery",2.0,"General, Plastic Surgery"
+K250733,Bimed Teknik Aletler Sanayi & Ticaret A.S.,3DOSE 1ml Syringe,FMF,2025-07-03,Substantially Equivalent,General Hospital,2.0,General Hospital
+K251781,"Shenzhen Kaiyan Medical Equipment Co., Ltd.",KALA MINI 2.0 (KALA-04),OHS,2025-09-04,Substantially Equivalent,"General, Plastic Surgery",2.0,Radiology
+K252554,"Vivachek Biotech (Hangzhou) Co., Ltd.",Wisdiag Multi-Drug Urine Test Cup; Wisdiag Multi-Drug Urine Home Test Cup,NFT,2025-09-12,Substantially Equivalent,Clinical Toxicology,2.0,Clinical Toxicology
+K252062,Thermo Fisher Scientific,The Sensititre 18-24 hour MIC or Breakpoint Susceptibility System with Colistin in the dilution range of 0.12-16 ug/mL,JWY,2025-09-25,Substantially Equivalent,Microbiology,2.0,Microbiology
+K242907,"CnS Medical Co., Ltd.",DELPHI System,GEI,2025-06-06,Substantially Equivalent,"General, Plastic Surgery",2.0,Cardiovascular
+K241927,Synthes GmbH,Synthes Graphic Case & Tray System,KCT,2025-03-28,Substantially Equivalent,General Hospital,2.0,General Hospital
+K252526,"Ischemaview, Inc.",Rapid DeltaFuse,LLZ,2025-08-26,Substantially Equivalent,Radiology,2.0,Orthopedic
+K252725,United Orthopedic Corporation,Stem Extension Line (U2 Total Knee SystemPSA Type),JWH,2025-09-25,Substantially Equivalent,Orthopedic,2.0,Orthopedic
+K242713,"Mediclus Co., Ltd.",Any-Com Bulk,EBF,2025-02-07,Substantially Equivalent,Dental,2.0,Dental
+K243283,Abbott Laboratories,Alinity h-series System,GKZ,2025-02-20,Substantially Equivalent,Hematology,2.0,Hematology
+K250868,Heidelberg Engineering GmbH,SPECTRALIS HRA+OCT and variants,OBO,2025-05-12,Substantially Equivalent,Ophthalmic,2.0,Ophthalmic
+K242615,"Xiamen Taotao Technology Co., Ltd.","Intermittent pressure compression system (Compression Pump PT1005A; Leg Compression Cuffs; L-1001S, L-1001L, L-1001XL, L-1001XXL, L-1001XXXL)",IRP,2025-07-23,Substantially Equivalent,Physical Medicine,2.0,Physical Medicine
+K243032,"Guangzhou Potent Medical Equipment Joint-Stock Co., Ltd.",EHL Probe (SCDG-AS); EHL Probe (SCDG-BS); EHL Probe (SCDG-CS),FFK,2025-03-21,Substantially Equivalent,"Gastroenterology, Urology",2.0,"Gastroenterology, Urology"
+K243796,"Glove One, LLC",GLOVEONE Powder-Free Nitrile Examination Gloves  Non-sterile [Tested for use with Chemotherapy Drugs and Fentanyl],LZA,2025-06-03,Substantially Equivalent,General Hospital,1.0,General Hospital
+K243500,Abbott Laboratories,ARCHITECT iGentamicin,LCD,2025-07-09,Substantially Equivalent,Clinical Toxicology,2.0,Clinical Chemistry
+K243521,"BioHorizons Implant Systems, Inc.",Conical Ti Base abutments,NHA,2025-05-01,Substantially Equivalent,Dental,2.0,Dental
+K242916,"Largan Medical Co., Ltd.",Largan U38 Color (Polymacon) Daily Wear Soft (hydrophilic) Contact Lens,LPL,2025-02-04,Substantially Equivalent,Ophthalmic,2.0,Ophthalmic
+K251017,"Shenzhen Kaiyan Medical Equipment Co., Ltd.",CurrentBody Skin Dual Light Hair Growth Helmet (model: MZ-07A),OAP,2025-06-17,Substantially Equivalent,Physical Medicine,2.0,"General, Plastic Surgery"
+K243284,"Alcresta Therapeutics, Inc.",RELiZORB (100300/ 100301),PLQ,2025-01-15,Substantially Equivalent,"Gastroenterology, Urology",2.0,"Gastroenterology, Urology"
+K250686,Neurospectrum Insights Corp.,GyriCalc (Version 1.0.0),LLZ,2025-07-22,Substantially Equivalent,Radiology,2.0,Obstetrics/Gynecology
+K250989,Howmedica Osteonics Corp (Dba Stryker Orthopaedics),Stryker and Serf hip devices,LPH,2025-07-25,Substantially Equivalent,Orthopedic,2.0,Orthopedic
+K251572,"Pari Respiratory Equipment, Inc.",eRapid with eTrack System,CAF,2025-12-19,Substantially Equivalent,Anesthesiology,2.0,Anesthesiology
+K241220,Roche Diagnostics Operations,Tina-quant Lipoprotein(a) Gen.2 Molarity,DFC,2025-01-24,Substantially Equivalent,Immunology,2.0,Clinical Chemistry
+K242852,Inomed Medizintechnik GmbH,"ALM Tube I.D. 6.0, O.D. 8.2 (520843), ALM Tube I.D. 7.0, O.D. 9.7 (520845), ALM Tube I.D. 7.5, O.D. 10.3 (520846), ALM Tube I.D. 8.0, O.D. 11.0 (520847)",ETN,2025-06-13,Substantially Equivalent,"Ear, Nose, Throat",2.0,Anesthesiology
+K250819,Rollz International BV,Electric Wheelchair (Rollz Motion Electric 2M),ITI,2025-11-07,Substantially Equivalent,Physical Medicine,2.0,Physical Medicine
+K242056,Benq Materials Corporation,miacare (DELiGHT daily wear/ DELiGHT 1-day/ CONFiDENCE Color daily wear/CONFiDENCE Color 1-day) Contact Lens with EautraSil Plus,LPL,2025-04-17,Substantially Equivalent,Ophthalmic,2.0,Ophthalmic
+K250475,"Ningbo Baichen Medical Devices Co., Ltd.","Electric Wheelchair (BC-EA5516, BC-EC8002, BC-EC8003, BC-EALD3)",ITI,2025-05-27,Substantially Equivalent,Physical Medicine,2.0,Physical Medicine
+K250710,"Enpuno Co., Ltd.",Injectable Root Canal Bioceramic Sealer (nRoot SP),KIF,2025-06-11,Substantially Equivalent,Dental,2.0,Dental
+K250431,"Shandong Moonlight Electronics Tech Co., Ltd.",Medical Diode Laser Hair Removal System (MNLT-D1),GEX,2025-05-12,Substantially Equivalent,"General, Plastic Surgery",2.0,"General, Plastic Surgery"
+K242428,"Guangzhou Decheng Biotechnology Co., Ltd.","Dochek® Fentanyl Urine Test Strip, Dochek® Fentanyl Urine Test Strip Plus, Dochek® Fentanyl Urine Test Card, Dochek® Fentanyl Urine Test Card Plus, Dochek® Fentanyl Urine Test Cup and Dochek® Fentanyl Urine Test Cup Plus",NGL,2025-02-06,Substantially Equivalent,Clinical Toxicology,2.0,Clinical Toxicology
+K250583,"Hcmed Innovations Co., Ltd.",AdheResp Smart Breath-actuated Mesh Nebulizer,CAF,2025-06-20,Substantially Equivalent,Anesthesiology,2.0,Anesthesiology
+K242877,"Applied BioCode, Inc.",BioCode Gastrointestinal Pathogen Panel (GPP),PCH,2025-01-10,Substantially Equivalent,Microbiology,2.0,Microbiology
+K242388,"Bonraybio Co., Ltd.",LensHooke X12 PRO Semen Analysis System,POV,2025-05-09,Substantially Equivalent,Hematology,2.0,Hematology
+K243279,E.M.S Electro Medical Systems S.A,DOLORCLAST Focused Shock Waves,PZL,2025-08-13,Substantially Equivalent,"General, Plastic Surgery",2.0,Orthopedic
+DEN240068,"Artera, Inc.",ArteraAI Prostate,SFH,2025-07-31,Unknown,Pathology,2.0,Pathology
+K251905,"NormaTec Industries, LP",Normatec Elite Hip,IRP,2025-09-18,Substantially Equivalent,Physical Medicine,2.0,Physical Medicine
+K243764,"Wuhan Pioon Technology Co., Ltd.","Medical Diode Laser (UTU3-F7B,UTU3-F7W,UTU3-G7B,UTU3-G7W,UTU-G20B,UTU-G20W)",NVK,2025-05-08,Substantially Equivalent,"General, Plastic Surgery",2.0,"General, Plastic Surgery"
+K251313,"Covidien, LLC","Shiley Adult Flexible Tracheostomy Tube XLT with TaperGuard Cuff, Distal with Disposable Inner Cannula; Shiley Adult Flexible Tracheostomy Tube XLT with TaperGuard Cuff, Proximal with Disposable Inner Cannula; Shiley Adult Flexible Tracheostomy Tube XLT Cuffless, Distal with Disposable Inner Cannula ; Shiley Adult Flexible Tracheostomy Tube XLT Cuffless, Proximal with Disposable Inner Cannula; Shiley Adult Flexible Disposable Inner Cannula XLT",JOH,2025-12-29,Substantially Equivalent,Anesthesiology,2.0,Anesthesiology
+K253168,"Arbor Endovascular, LLC",0.014 Willow Guidewire,MOF,2025-11-26,Substantially Equivalent,Cardiovascular,2.0,Cardiovascular
+K243541,"Contra Healthcare Solutions, LLC",LumiRex Bronchoscope,EOQ,2025-04-30,Substantially Equivalent,"Ear, Nose, Throat",2.0,"Ear, Nose, Throat"
+K243871,Philips Medical Systems Nederland B.V.,Philips IntelliSite Pathology Solution 5.1,PSY,2025-03-06,Substantially Equivalent,Pathology,2.0,Pathology
+K242684,"Hua Yue Medical Technology Co., Ltd.",Harioculture TL-16 Time-lapse Incubator,MQG,2025-05-22,Substantially Equivalent,Obstetrics/Gynecology,2.0,Obstetrics/Gynecology
+K250161,"Shenzhen AOJ Medical Technology Co., Ltd.",Wrist Blood Pressure Monitor (AOJ-35A); Wrist Blood Pressure Monitor (AOJ-35B); Wrist Blood Pressure Monitor (WRS-35B); Wrist Blood Pressure Monitor (AOJ-35D); Wrist Blood Pressure Monitor (AOJ-35E); Wrist Blood Pressure Monitor (AOJ-35F); Wrist Blood Pressure Monitor (AOJ-35G); Wrist Blood Pressure Monitor (WRS-35G); Wrist Blood Pressure Monitor (WRS-35H); Wrist Blood Pressure Monitor (WRS-35K); Wrist Blood Pressure Monitor (WRS-35N); Wrist Blood Pressure Monitor (WRS-35P); Wrist Bloo,DXN,2025-05-02,Substantially Equivalent,Cardiovascular,2.0,Cardiovascular
+K250069,Comfort Rubber Gloves Industries Sdn. Bhd.,"Powder Free Natural Rubber Latex Examination Gloves  Blue, Non-Sterile and Protein Claim Of 50 Micrograms per dm2 Or Less Protein",LYY,2025-04-29,Substantially Equivalent,General Hospital,1.0,General Hospital
+K241232,"Ibex Medical Analytics , Ltd.",Galen Second Read,QPN,2025-01-24,Substantially Equivalent,Pathology,2.0,Radiology
+K250561,Natural Cycles Nordic AB,Natural Cycles,PYT,2025-03-21,Substantially Equivalent,Obstetrics/Gynecology,2.0,Obstetrics/Gynecology
+K241059,Adler Ortho S.P.A,Pantheon Proximal Femur Reconstruction (PFR) System,LPH,2025-01-13,Substantially Equivalent,Orthopedic,2.0,Orthopedic
+K243775,"Excite Medical of Tampa Bay, LLC",True Non-Surgical Spinal Decompression System (DRX9000-SL),ITH,2025-07-18,Substantially Equivalent,Physical Medicine,2.0,Physical Medicine
+K243371,"Byonyks Pvt, Ltd.",Byonyks X-1 APD Cycler; Byonyks Automated PD Set DS-1,FKX,2025-05-16,Substantially Equivalent,"Gastroenterology, Urology",2.0,"Gastroenterology, Urology"
+K250215,Cochlear,Baha 7 Sound Processor; Baha Fitting Software 7 (P2121898); Baha Smart App (iOS) (P1646054); Baha Smart App (Android) (P1646035); Baha SoundBand,LXB,2025-05-29,Substantially Equivalent,"Ear, Nose, Throat",2.0,"Ear, Nose, Throat"
+K242981,"Siemens Healthcare Diagnostics, Inc.",Atellica IM Thyroglobulin (Tg),MSW,2025-06-20,Substantially Equivalent,Immunology,2.0,Clinical Chemistry
+K251894,"Himaging Technology (Shanghai) Co., Ltd.",Himaging Bronchscope System,EOQ,2025-09-23,Substantially Equivalent,"Ear, Nose, Throat",2.0,"Ear, Nose, Throat"
+K252109,RaySearch Laboratories AB (PUBL),RayStation (2024A SP3),MUJ,2025-12-22,Substantially Equivalent,Radiology,2.0,Radiology
+K241261,MED-EL Elektromedizinische Geräte GmbH,"mCLIP Partial Prosthesis, mCLIP ARC Partial Prosthesis, mXACT Partial Prosthesis and mXACT PRO Partial Prosthesis Kit",ETB,2025-01-17,Substantially Equivalent,"Ear, Nose, Throat",2.0,Orthopedic
+K250223,"Prismatik Dentalcraft, Inc.",BruxZir® Esthetic NOW,EIH,2025-02-25,Substantially Equivalent,Dental,2.0,Dental
+K251973,"Luminance Medical Ventures, Inc.",Luminance Red Cold Sore Device (TN1927G),OKJ,2025-09-23,Substantially Equivalent,"General, Plastic Surgery",2.0,"General, Plastic Surgery"
+K252393,"Ortho-Clinical Diagnostics, Inc.",VITROS Immunodiagnostic Products hs Troponin I Reagent Pack,MMI,2025-10-29,Substantially Equivalent,Clinical Chemistry,2.0,Clinical Chemistry
+K250232,"Hunan Vathin Medical Instrument Co., Ltd.",Vathin® Video Bronchoscope System,EOQ,2025-07-25,Substantially Equivalent,"Ear, Nose, Throat",2.0,"Ear, Nose, Throat"
+K252762,"Indica Labs, LLC",HALO AP Dx,QKQ,2025-11-25,Substantially Equivalent,Pathology,2.0,Pathology
+K251215,Philips Medical Systems Nederland B.V.,Philips IntelliSpace Cardiovascular,LLZ,2025-10-02,Substantially Equivalent,Radiology,2.0,Cardiovascular
+DEN240073,Painchek Limited (Ltd.),PainChek  (PainChek Adult),SGB,2025-10-06,Unknown,Neurology,2.0,Neurology
+K250727,"Hangzhou AllTest Biotech Co., Ltd.",AllTest Multi-Drug Rapid Urine Test Cup; AllTest Multi-Drug Urine Test Cup,NFT,2025-04-04,Substantially Equivalent,Clinical Toxicology,2.0,Clinical Toxicology
+K243668,"Life Spine, Inc.",ProLift Pivot Expandable Spacer System,MAX,2025-01-23,Substantially Equivalent,Orthopedic,2.0,Orthopedic
+K250331,"Astrasono Technology Co., Ltd.",Astrasono A3Pro Bladder Scanner (A3Pro),IYO,2025-09-30,Substantially Equivalent,Radiology,2.0,"Gastroenterology, Urology"
+K251657,Resmed Corp,Personalized Therapy Comfort Settings (PTCS),BZD,2025-12-05,Substantially Equivalent,Anesthesiology,2.0,Anesthesiology
+K252921,Boston Scientific Corporation,Radial Jaw 4 Pulmonary Biopsy Forceps,BWH,2025-09-26,Substantially Equivalent,"Ear, Nose, Throat",2.0,"Ear, Nose, Throat"
+K243953,"Vizionfocus, Inc.","Aurora (ocufilcon D) Soft (Hydrophilic) Daily Wear Contact Lens (Tinted, Color)",LPL,2025-04-10,Substantially Equivalent,Ophthalmic,2.0,Ophthalmic
+K241833,Vitromed GmbH,V-GRAD,MQL,2025-03-21,Substantially Equivalent,Obstetrics/Gynecology,2.0,Radiology
+K243565,"Promethean Restorative, LLC",DYNAMIS SI Screw System,OUR,2025-02-28,Substantially Equivalent,Orthopedic,2.0,Orthopedic
+K243822,"Biofire Defense, LLC",BioFire Warrior Panel; BioFire Warrior Panel Control Kit,PRD,2025-03-12,Substantially Equivalent,Immunology,,Microbiology
+K251440,"Precision Biologic, Inc.",CRYOcheck Chromogenic Factor VIII,GGP,2025-08-25,Substantially Equivalent,Hematology,2.0,Hematology
+K243544,"Biofire Diagnostics, LLC",BIOFIRE SPOTFIRE Respiratory/Sore Throat Panel Mini,QOF,2025-08-14,Substantially Equivalent,Microbiology,2.0,Microbiology
+K252892,"Merit Medical Systems, Inc.",SCOUT MD Surgical Guidance System,NEU,2025-12-19,Substantially Equivalent,"General, Plastic Surgery",2.0,"General, Plastic Surgery"
+K242762,"Aesculap, Inc.",Aesculap Aicon® Series Container System,KCT,2025-05-13,Substantially Equivalent,General Hospital,2.0,General Hospital
+K243698,Brainlab AG,"Alignment System Cranial, with Alignment Software Cranial with LITT; Cirq Alignment Software Cranial Biopsy; Cirq Alignment Software Cranial sEEG; VarioGuide Alignment Software Cranial; Cirq Alignment Software Cranial LITT",HAW,2025-01-28,Substantially Equivalent,Neurology,2.0,Neurology
+K242006,"Quality Electrodynamics, LLC",SureWave Elastography (Q7000225),LNH,2025-02-12,Substantially Equivalent,Radiology,2.0,Radiology
+K241586,"Becton Dickinson Infusion Therapy Systems, Inc.",PIVO Pro Needle-free Blood Collection Device,JKA,2025-02-27,Substantially Equivalent,Clinical Chemistry,2.0,General Hospital
+K243425,"Talladium España, SL",Guided DAS Surgical Kit,KCT,2025-07-22,Substantially Equivalent,General Hospital,2.0,Dental
+K250816,"Siemens Healthcare Diagnostics, Inc.",ADVIA Centaur Anti-Thyroglobulin II (aTgII),JNL,2025-12-04,Substantially Equivalent,Immunology,2.0,Immunology
+K251186,"C.R. Bard, Inc.",Bard® Temporary Pacing Electrode Catheter  Needle / Cannula (Introducer),LDF,2025-05-15,Substantially Equivalent,Cardiovascular,2.0,Cardiovascular
+K242830,"Bonraybio Co., Ltd.",LensHooke X3 PRO Semen Quality Analyzer; LensHooke X3 PRO SE Semen Quality Analyzer,POV,2025-05-30,Substantially Equivalent,Hematology,2.0,Hematology
+K252825,"Jiangsu Jumao X-Care Medical Equipment Co., , Ltd.",Manual Wheelchair (W45),IOR,2025-12-05,Substantially Equivalent,Physical Medicine,1.0,Physical Medicine
+K250159,"The Binding Site Group , Ltd.",Immunoglobulin Isotypes (GAM) for the EXENT Analyser; EXENT Analyser,SGG,2025-10-17,Substantially Equivalent,Immunology,2.0,Immunology
