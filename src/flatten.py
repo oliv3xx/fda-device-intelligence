@@ -22,6 +22,9 @@ columns = [
 ]
 df = df[columns]
 
+# FDA uses empty strings for some missing values; treat them as blanks
+df = df.replace("", pd.NA)
+
 df = df.rename(columns={"openfda.device_class":"device_class"})
 
 # save to csv
